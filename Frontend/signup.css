@@ -1,0 +1,75 @@
+
+body{
+  background: url(signup.jpg);
+  background-repeat: no-repeat;
+  background-size: 1600px, 800px;
+  width: 100%;
+  height: 100%;
+
+
+}
+
+.row{
+	width: 100%;
+
+}
+
+.box1{
+
+  background-color: white;
+  opacity: 0.80;
+  transition: 0.5s;
+}
+
+.title{
+  margin-top: 50px;
+  margin-left: 36%;
+  margin-right: 34%;
+}
+.title2{
+  margin-top: 15px;
+  margin-left: 24%;
+  margin-right: 24%;
+}
+.layout1{
+  width: 21%;
+  margin-left: 15%;
+  margin-top: 70px;
+}
+.layout2{
+  width: 40%;
+  margin-top: 70px;
+  margin-left: 10%;
+
+}
+
+.btn1{
+      border: none;
+      outline: none;
+      height: 50px;
+      width: 100px;
+      background-color: black;
+      color: white;
+      border-radius: 4px; 
+      font-weight: bold;
+      transition: 0.5s;
+
+    }
+    .btn1:hover{
+      background: white;
+      border: 1px solid;
+      color: black;
+      transform: scale(1.05);
+    }
+
+    img{
+      width: 65px;
+      height: 65px;
+      margin-right: 23px;
+      margin-top: 30px;
+    }
+    img:hover{
+      transform: scale(1.05);
+
+    }
+   
